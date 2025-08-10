@@ -4,6 +4,8 @@ This is a full-stack web application that allows users to input a website idea. 
 
 ![Preview](./screenshot.png)
 ![Preview 2](./screenshot_2.png)
+![Preview 3](./case.mp4)
+![Preview 4](./AI-Powered_Landing_Page_Generator.mp4)
 
 ## ✨ Core Features
 
