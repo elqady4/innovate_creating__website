@@ -2,10 +2,10 @@
 
 This is a full-stack web application that allows users to input a website idea. The system dynamically generates professional dummy content for a landing page (e.g., Hero, About, Contact sections), stores it in a MongoDB database, and displays it as an instant preview.
 
-![Preview](./screenshot.png)
-![Preview 2](./screenshot_2.png)
-![Preview 3](./case.mp4)
-![Preview 4](./AI-Powered_Landing_Page_Generator.mp4)
+
+| 1. Input Form | 2. Loading State | 3. Generated Content | 4. AI Powered Landing Page_Generator |
+| :---: | :---: | :---: | :---: |
+| ![User Input Form](./screenshot.png) | ![Loading Skeleton](./screenshot_2.png) | ![Generated Content Preview](./case.gif) | ![Description of Fourth Screenshot](./AI-Powered_Landing_Page_Generator.mp4) |
 
 ## ✨ Core Features
 
